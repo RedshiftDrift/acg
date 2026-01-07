@@ -1,10 +1,11 @@
 ---
 title: Videos
 layout: default
-nav_order: 9
+nav_order: 10
 ---
 
 # Videos
+**by Louis Marmet**
 {: .no_toc }
 
 <details markdown="block">
@@ -54,4 +55,4 @@ nav_order: 9
 
 ---
 
-© 2018-2023 ACG
+© 2018--2025 ACG

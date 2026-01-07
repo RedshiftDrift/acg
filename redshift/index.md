@@ -1,10 +1,12 @@
 ---
 title: Redshift Models
 layout: default
-nav_order: 5
+nav_order: 6
+has_children: true
 ---
 
 # Redshift Models
+**by Louis Marmet**
 {: .no_toc }
 
 <details markdown="block">
@@ -15,6 +17,19 @@ nav_order: 5
 - TOC
 {:toc}
 </details>
+
+A collection of redshift models and representative papers classified by type.
+
+*This is not meant to be a complete list of all proposed redshift models.*
+
+
+
+## Preface
+
+### A rebuttal of criticism of tired light
+
+
+[Errors in "Errors in Tired Light Cosmology"](rebut/errorswright.html)
 
 
 ## Models based on *d(hν) = – H (hν) dt*
@@ -58,6 +73,9 @@ Photon momentum polarizes hydrogen atoms which emit a small amount of energy
 
 Light interaction with electrons  
 [(L. Ashmore 2015)](https://www.researchgate.net/publication/228532260_An_Explanation_of_Redshift_in_a_Static_Universe)
+
+Double Compton scattering of photons by electrons generates one additonal photon per collision, with both photons redshifted relative to original energy.
+[(R. Booth 2024)](https://www.preprints.org/manuscript/202412.0837/v1) See Section 2.3
 
 Soft photon emission during interaction with free electrons  
 [(Y. Zheng 2013)](https://arxiv.org/abs/1305.0427)
@@ -214,7 +232,7 @@ The photon has a decay lifetime similar to radioactive or unstable particles
 [(A. Stolmar 2001)](http://www.astro.ucla.edu/%7Ewright/Stolmar_Errors.html)
 
 Exponential decay of the photon energy  
-(H. Dart 1993)
+[(H. Dart 1993)](http://redshift.vif.com/JournalFiles/Pre2001/V00NO17PDF/NR17DAR.PDF)
 
 Energy is lost by the photon each time it travels the distance equal to its wavelength  
 [(H. Broberg 1981)](https://ui.adsabs.harvard.edu/abs/1981eqsc.rept.....B/abstract)
@@ -257,7 +275,12 @@ The red shift is explained with a decrease with time of the quantum of action
 Decreasing speed of light with time  
 [(H. Schier 1932)](https://ui.adsabs.harvard.edu/abs/1932AN....246..269S/abstract)
 
-## Alternative Tired-Light Redshift Mechanism
+## Alternative Redshift Mechanisms
+
+### Relativistic Dynamics
+
+The Jeans Contraction - Atomic matter progressively contracts under its own gravitational field, as quantified by the Schwarzschild Metric of GR, thus making older photos appear redshifted.
+[(R. Booth 2025)](https://www.preprints.org/manuscript/202412.0837/v1) 
 
 ### Light - Aether Interaction
 
@@ -336,4 +359,4 @@ The speed of light changes with time
 
 ---
 
-© 2018--2023 ACG
+© 2018--2025 ACG

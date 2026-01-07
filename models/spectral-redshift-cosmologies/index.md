@@ -6,6 +6,7 @@ parent: Cosmological Models
 ---
 
 # Spectral-Redshift Cosmologies
+**by Louis Marmet**
 
 Models based on the [redshift relationship](http://www.astro.ucla.edu/%7Ewright/tiredlit.htm) *d(hν) = -H (hν) dt* ([Nernst 1937](https://doi.org/10.1007/BF01339902))
 
@@ -77,4 +78,4 @@ Models based on the [redshift relationship](http://www.astro.ucla.edu/%7Ewright/
 
 ---
 
-© 2018--2023 ACG
+© 2018--2025 ACG

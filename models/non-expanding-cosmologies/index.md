@@ -6,6 +6,7 @@ parent: Cosmological Models
 ---
 
 # Non-Expanding Cosmologies
+**by Louis Marmet**
 
 ## [Particle Evolution Model](pem-20220115.pdf)
 **by J. de Climont** - 2022-1-15
@@ -78,4 +79,4 @@ parent: Cosmological Models
 
 ---
 
-© 2018--2023 ACG
+© 2018--2025 ACG

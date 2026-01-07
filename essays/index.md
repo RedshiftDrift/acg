@@ -1,7 +1,7 @@
 ---
 title: Essays
 layout: default
-nav_order: 3
+nav_order: 4
 ---
 
 # Essays on cosmology
@@ -120,4 +120,4 @@ Portugal for the First Crisis In Cosmology Conference June 23-25.
 
 ---
 
-© 2020–2023 ACG
+© 2018--2025 ACG
